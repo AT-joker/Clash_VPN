@@ -1,6 +1,8 @@
 # Clash_VPN
 <p>
-  Clash Verge 使用体验分享：梯子购买及使用推荐。
+  Clash Verge 使用体验分享：梯子购买及使用推荐。<br>
+  Clash Verge是专用于挂机场的软件,软件界面简洁,使用简单。<br>
+  Clash Verge下载以及详情: <a href="https://github.com/clash-verge-rev/clash-verge-rev">点击跳转</a>
 </p>
 <h2>AI云边</h2>
 <p>
